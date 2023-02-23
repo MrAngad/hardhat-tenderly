@@ -1,0 +1,20 @@
+{
+  "name": "hardhat-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tenderly/hardhat-tenderly": "^1.6.1",
+    "hardhat": "^2.9.4",
+    "tenderly": "^0.4.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1"
+  }
+}
